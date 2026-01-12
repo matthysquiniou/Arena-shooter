@@ -1,0 +1,12 @@
+# Blender 5.0.0 MTL File: 'dragon.blend'
+# www.blender.org
+
+newmtl Mnupao_10002_Mnupao_T_10002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd dragon_base_color.png
+map_d dragon_base_color.png
